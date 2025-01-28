@@ -9,7 +9,7 @@ int main() {
     
 
     int array[n],int min = array[0], max = array[0];
-    printf("Enter %d elements:\n", n);
+    
     for (int i = 0; i < n; i++) {
         scanf("%d", &array[i]); //storing the elements in the array
     }
