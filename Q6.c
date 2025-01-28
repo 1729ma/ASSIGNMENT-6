@@ -15,7 +15,7 @@ int main() {
     }
 
     // Printing the total marks obtained by all students
-    printf("\nTotal marks obtained by each student:\n");
+   
     for(i = 0; i < 5; i++) {
         printf("Student %d: %d\n", i + 1, total[i]);
 
