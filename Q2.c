@@ -9,7 +9,7 @@ int main() {
     int array[n], arr2[n], duplicate = 0, uni = 0;
 
     // Input the elements of the array from user
-    printf("Enter %d elements:\n", n);
+    
     for (int i = 0; i < n; i++) {
         scanf("%d", &array[i]);
     }
